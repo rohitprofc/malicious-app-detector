@@ -10,8 +10,9 @@ This project analyzes user feedback to identify potentially malicious apps using
     git clone https://github.com/rohitprofc/malicious-app-detector.git
     cd malicious-app-detector
     ```
+2. Suggested **Python** version is **3.9.12**
 
-2. Install the required libraries:
+3. Install the required libraries:
 
     ```bash
     pip install -r requirements.txt
